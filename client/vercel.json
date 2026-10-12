@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/:path*", "destination": "https://reserve-o6ct.onrender.com/api/:path*" }
+  ]
+}
