@@ -1,0 +1,1 @@
+{ "name": "reserve", "private": true, "scripts": { "test": "npm test --prefix server", "start": "npm start --prefix server" }, "license": "MIT" }
